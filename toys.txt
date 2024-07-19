@@ -1,0 +1,2 @@
+1,Teddy Bear,10,0.7
+2,LEGO Set,5,2.0
